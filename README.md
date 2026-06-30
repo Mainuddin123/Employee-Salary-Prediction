@@ -73,12 +73,9 @@ Employee Salary Prediction/
 pip install -r requirements.txt
 streamlit run app.py
 ```
-
----
-
 ## 👨‍💻 Developer
 
 **Khaja Mainuddin**
 
-- LinkedIn: https://www.linkedin.com/in/shaik-khajamainuddin
+- LinkedIn: https://www.linkedin.com/in/khaja-mainuddin-sk-958436348
 - GitHub: https://github.com/Mainuddin123
