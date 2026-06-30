@@ -73,6 +73,19 @@ Employee Salary Prediction/
 pip install -r requirements.txt
 streamlit run app.py
 ```
+Streamlit App:
+https://employee-salary-prediction-q3fhvy6nwhfkhzl9rbxu3m.streamlit.app/
+
+
+Screenshots:
+
+Test Case-1:
+<img width="958" height="928" alt="Screenshot 2026-06-30 210151" src="https://github.com/user-attachments/assets/0243b9db-d3a4-440f-bb89-170db8638c4b" />
+
+Test Case-2:
+<img width="972" height="936" alt="Screenshot 2026-06-30 210252" src="https://github.com/user-attachments/assets/8496e8bb-c3b0-4f94-984f-3ccb7c3bc8d5" />
+
+
 ## 👨‍💻 Developer
 
 **Khaja Mainuddin**
